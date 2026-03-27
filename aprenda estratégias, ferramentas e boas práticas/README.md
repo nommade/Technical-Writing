@@ -24,7 +24,7 @@ Este curso foi desenvolvido especialmente para profissionais da área de tecnolo
 - Aprenda a planejar e analisar documentações;
 
 ## Aulas:
-- [O que é Technical Writing?]();
+- [O que é Technical Writing?](https://github.com/nommade/Technical-Writing/blob/main/aprenda%20estrat%C3%A9gias%2C%20ferramentas%20e%20boas%20pr%C3%A1ticas/0%20-%20O%20que%20%C3%A9%20Technical%20Writing/README.md);
 - [Tipos de documentação técnica]();
 - [Boas práticas de escrita para documentação]();
 - [Outros formatos de conteúdo técnico]();
