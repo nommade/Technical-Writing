@@ -1,5 +1,5 @@
 <div align=center>
-    <img width="150px" src="./img/design-ux.svg" alt="Simbolo da Carreira de Documentação da Alura"/>
+    <img width="150px" src="./src/img/design-ux.svg" alt="Simbolo da Carreira de Documentação da Alura"/>
 </div>
 <br/>
 
@@ -22,11 +22,11 @@ Ao decorrer dos cursos você vai compreender como construir um documentação t�
 ## Boas práticas em documentação técnica
 Entenda sobre as boas práticas de construção em uma documentação técnica, melhores formas de representar tipos diferentes de documentos e como documentá-los.
 
-- [Technical Writing: aprenda estratégias, ferramentas e boas práticas]()
+- [Technical Writing: aprenda estratégias, ferramentas e boas práticas](https://github.com/nommade/Technical-Writing/tree/main/aprenda%20estrat%C3%A9gias%2C%20ferramentas%20e%20boas%20pr%C3%A1ticas)
 
 <br/>
 
 ## Usando DDLC para criar documentações
 Aprenda a usar o método DDLC (Document Development Life Cycle) para construir e manter uma boa qualidade na sua documentação técnica.
 
-- [Technical Writing: crie uma documentação do zero com DDLC]()
+- [Technical Writing: crie uma documentação do zero com DDLC](https://github.com/nommade/Technical-Writing/tree/main/crie%20uma%20documenta%C3%A7%C3%A3o%20do%20zero%20com%20DDLC)
