@@ -1,8 +1,10 @@
-<div align = center>
+<!-- <div align = center>
     <video controls width="800">
         <source src="../src/video/M_0_Aula-0.mp4" type="video/mp4">
     </video>
-</div>
+</div> -->
+
+[Abrir vídeo no navegador](../src/video/M_0_Aula-0.mp4)
 
 
 # O que é Technical Writing?
