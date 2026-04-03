@@ -9,7 +9,7 @@ Imagine um manual de usuário que descomplica até a tarefa mais complexa. Esse 
 Podemos visualizar essa aplicação no Guia de Início Rápido do Slack, o qual tem instruções claras e visuais, o que facilitam a compreensão até para as pessoas menos familiarizadas com tecnologia.
 
 <div align = center>
-    <img src = "../../src/img/guia-radio-slack.png"/>
+    <img src = "../src/img/guia-radio-slack.png"/>
 </div>  
 
 ### Manuais Técnicos
@@ -18,7 +18,7 @@ Se existe um problema, há um manual técnico. Aqui, a pessoa TW se torna quem a
 Os guias do Python não só explicam a linguagem de programação, mas fornecem também exemplos e casos de uso, facilitando a compreensão para devs de todos os níveis.
 
 <div align = center>
-    <img src = "../../src/img/guia-python.png"/>
+    <img src = "../src/img/guia-python.png"/>
 </div>  
 
 ### Comunicação com DEVS
@@ -29,7 +29,7 @@ Essas comunicações podem acontecer através de release notes, changelogs, e-ma
 Dessa maneira, podemos pensar sobre o GitHub, que usa changelogs eficazes para informar pessoas usuárias sobre as últimas atualizações, mantendo a comunidade bem informada.
 
 <div align = center>
-    <img src = "../../src/img/changelog.png"/>
+    <img src = "../src/img/changelog.png"/>
 </div>  
 
 # Modelos de Trabalho em Technical Writing

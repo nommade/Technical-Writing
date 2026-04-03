@@ -4,6 +4,12 @@
 
 # Technical Writing: aprenda estratégias, ferramentas e boas práticas
 
+<div align = center>
+    <video controls width="800">
+        <source src="./src/video/M_0_Aula-0.mp4" type="video/mp4">
+    </video>
+</div>
+
 ### O que vamos aprender?
 Nosso propósito ao guiá-lo neste curso é proporcionar as ferramentas essenciais para compreender o campo da Tech Writing, especialmente se esta for sua primeira experiência. Para alcançar esse objetivo, abordaremos temas fundamentais, incluindo definições de Technical Writing, uma análise dos diversos tipos de documentação técnica presentes no mercado, bem como a exploração de outros formatos de conteúdo, exemplificado pelo "Guia do Usuário", entre outros tópicos relevantes.
 

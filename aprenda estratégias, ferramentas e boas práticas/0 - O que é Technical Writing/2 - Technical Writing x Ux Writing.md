@@ -1,3 +1,10 @@
+<div align = center>
+    <video controls width="800">
+        <source src="../src/video/M_0_Aula-2.mp4" type="video/mp4">
+    </video>
+</div>
+
+
 # Technical Writing x Ux Writing
 
 ### Semelhanças
@@ -42,7 +49,7 @@ Profissionais dessa área estão mais integrados à esfera de UX, conforme o pr�
 Em relação aos formatos de conteúdo, como estão mais próximos do time de design e de UX, é natural que, além dos microtextos (que são justamente essas frases e sentenças que encontramos nas etapas de um aplicativo), também tenhamos tom e voz, entre outros formatos de conteúdo.
 
 <div align = center>
-    <img src = "../../src/img/ux-txt_app.png"/>
+    <img src = "../src/img/ux-txt_app.png"/>
 </div>  
 
 Para tornar ainda mais fácil, resolvemos resgatar o exemplo do Zoom, para tornar essa diferenciação ainda mais evidente.
@@ -54,7 +61,7 @@ Na imagem temos o aplicativo do Zoom. Essa é exatamente a tela inicial do aplic
 Quando fizemos isso, automaticamente abriu uma aba em que tínhamos que informar as informações da reunião para entrar nela. Como não havia reunião nenhuma, obviamente, não preenchemos essas informações, mas percebemos que o texto é muito mais objetivo, são textos curtos, são os microtextos do aplicativo.
 
 <div align = center>
-    <img src = "../../src/img/tech-writer.png"/>
+    <img src = "../src/img/tech-writer.png"/>
 </div>  
 
 Já no texto do Tech Writer, que é a imagem exatamente ao lado, temos a documentação técnica de como ingressar em uma reunião e todo o passo a passo ali listado, inclusive com o vídeo ao lado. Para tornar esse exemplo mais tangível, vamos dar uma outra comparação que gostamos muito, que é o do jogo do tabuleiro. Pense no seu jogo favorito, pode ser qualquer jogo de tabuleiro.

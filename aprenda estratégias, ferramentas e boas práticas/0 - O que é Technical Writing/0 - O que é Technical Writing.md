@@ -1,11 +1,8 @@
-<!-- <div align = center>
+<div align = center>
     <video controls width="800">
-        <source src="../src/video/M_0_Aula-0.mp4" type="video/mp4">
+        <source src="../src/video/M_0_Aula-1.mp4" type="video/mp4">
     </video>
-</div> -->
-
-[Abrir vídeo no navegador](../src/video/M_0_Aula-0.mp4)
-
+</div>
 
 # O que é Technical Writing?
 Antes de abordar isso, achamos crucial oferecer um breve contexto e, principalmente, começar a tornar esse assunto mais tangível.
@@ -18,7 +15,7 @@ Expressamos isso porque compreendemos que, inicialmente, Technical Writing pode 
 
 Quem nunca precisou montar um móvel quando estava se mudando? Uma cadeira, uma mesa, ou ainda, compreender como ligar um eletrodoméstico em casa? Apesar de não parecer, todos esses documentos presentes nessa foto já constituem documentações. Assim, cada vez que você adquiriu um produto ou serviço, mesmo sem saber, já estava entrando em contato com o Technical Writing e com a documentação técnica.
 
-Para facilitar ainda mais, decidimos apresentar dois exemplos que compartilharemos em nossa tela agora. O primeiro é um [manual](../../src/pdf/manual-de-montagem.pdf) que encontramos na internet sobre montagem, e observe o quão interessante é. Por que isso constituiria uma documentação técnica? Porque, em primeiro lugar, há uma foto do móvel, nos permitindo visualizar como é o produto.
+Para facilitar ainda mais, decidimos apresentar dois exemplos que compartilharemos em nossa tela agora. O primeiro é um [manual](../src/pdf/manual-de-montagem.pdf) que encontramos na internet sobre montagem, e observe o quão interessante é. Por que isso constituiria uma documentação técnica? Porque, em primeiro lugar, há uma foto do móvel, nos permitindo visualizar como é o produto.
 
 Ao abrir a embalagem, confirmamos se é o produto que adquirimos, proporcionando um contexto à pessoa usuária. Em seguida, encontramos uma variedade de informações técnicas, como os detalhes técnicos do sofá, incluindo a composição do estofamento, tecido, etc., que podem ser úteis.
 

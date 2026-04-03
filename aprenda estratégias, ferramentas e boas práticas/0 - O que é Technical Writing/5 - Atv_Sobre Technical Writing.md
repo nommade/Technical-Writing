@@ -3,6 +3,8 @@ Após você estudar sobre Technical Writing, surgiu uma oportunidade de entrar n
 
 Em um determinado dia, uma estagiária lhe procura para tirar dúvidas sobre a área e você deve, com base no que aprendeu durante seus estudos e prática, demonstrar: quais das seguintes informações são verdadeiras sobre a área de Technical Writing?
 
+
+
 <span style="color: #91CB73">A Redação Técnica e o UX Writing têm objetivos diferentes, embora ambos estejam relacionados à escrita em um contexto de TI.</span>
 - Embora ambos estejam relacionados à escrita em um contexto de TI, eles têm objetivos diferentes. A Redação Técnica foca na criação de conteúdos técnicos, como documentações, para facilitar o entendimento da pessoa usuária sobre um produto ou serviço. Já o UX Writing foca na criação de microtextos que vão orientar o usuário na experiência de uso e navegação de um produto ou serviço.
 

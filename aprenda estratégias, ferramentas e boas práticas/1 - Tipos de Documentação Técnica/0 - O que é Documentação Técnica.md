@@ -23,7 +23,7 @@ Portanto, esse exercício de documentar também contribui para construir fontes 
 ## Tipos de documentação
 Uma vez que entendemos o que é uma documentação, que ela existe para reunir informações importantes para o uso e que contribuem para a fonte da verdade, a partir desse conceito maior da documentação, como começamos a pensar nos seus determinados tipos?
 <div align = center>
-    <img src = "../../src/img/tipo-documentacao.png"/>
+    <img src = "../src/img/tipo-documentacao.png"/>
 </div>  
 
 O ***primeiro nível*** é o que ele diferencia, dentro de documentação de software, o que seria uma <u>documentação de processos e uma documentação de produtos</u>.

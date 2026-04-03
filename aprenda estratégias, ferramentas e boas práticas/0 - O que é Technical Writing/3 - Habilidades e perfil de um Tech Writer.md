@@ -1,3 +1,9 @@
+<div align = center>
+    <video controls width="800">
+        <source src="../src/video/M_0_Aula-3.mp4" type="video/mp4">
+    </video>
+</div>
+
 # Habilidades e perfil de um Tech Writer
 
 ### Perfil de Tech Writer

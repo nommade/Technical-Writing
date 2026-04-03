@@ -9,7 +9,7 @@ Podemos pensar nisso em ação em casos como, por exemplo, o [Kubernetes](https:
 Por se tratar de um projeto de código aberto, o Kubernetes hospeda a sua documentação em um repositório público no Github, permitindo que haja contribuições à documentação de forma colaborativa entre pessoas desenvolvedoras, já que o código do projeto e as documentações compartilham do mesmo projeto (no caso, repositório).
 
 <div align = center>
-    <img src = "../../src/img/kubernet.png"/>
+    <img src = "../src/img/kubernet.png"/>
 </div>  
 
 ### Colaboração Fácil
