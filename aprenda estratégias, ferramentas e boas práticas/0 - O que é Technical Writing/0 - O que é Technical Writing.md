@@ -1,10 +1,17 @@
+<div align = center>
+    <video controls width="800">
+        <source src="../src/video/M_0_Aula-0.mp4" type="video/mp4">
+    </video>
+</div>
+
+
 # O que é Technical Writing?
 Antes de abordar isso, achamos crucial oferecer um breve contexto e, principalmente, começar a tornar esse assunto mais tangível.
 
 Expressamos isso porque compreendemos que, inicialmente, Technical Writing pode parecer algo distante de nossa realidade, como se nunca tivéssemos tido um primeiro contato com ele. No entanto, estamos aqui para demonstrar o oposto e afirmar que, na realidade, Technical Writing está mais próximo de nossa rotina do que imaginamos. O exemplo mais ilustrativo que podemos oferecer é, literalmente, desta foto.
 
 <div align = center>
-    <img src = "../../src/img/manuais.png"/>
+    <img src = "../src/img/manuais.png"/>
 </div>
 
 Quem nunca precisou montar um móvel quando estava se mudando? Uma cadeira, uma mesa, ou ainda, compreender como ligar um eletrodoméstico em casa? Apesar de não parecer, todos esses documentos presentes nessa foto já constituem documentações. Assim, cada vez que você adquiriu um produto ou serviço, mesmo sem saber, já estava entrando em contato com o Technical Writing e com a documentação técnica.
@@ -33,7 +40,7 @@ Technical Writing envolve comunicar informações complexas para aqueles que pre
 Em outras palavras, trabalhar com Technical Writing é exatamente fazer esse exercício de comunicar informações, ou seja, traduzir essas informações que, num primeiro contato, parecem complexas e pouco acessíveis, com o objetivo de transformar tudo isso em conteúdos que sejam úteis e acessíveis para o nosso público.
 
 <div align = center>
-    <img src = "../../src/img/embarasso.png"/>
+    <img src = "../src/img/embarasso.png"/>
 </div>
 
 Para facilitar ainda mais e mostrar um pouco como é a nossa dinâmica de trabalho no dia a dia, resolvemos trazer uma imagem que gostamos muito e que acreditamos que ilustra bastante como é o nosso dia a dia de trabalho, mas, acima de tudo, o objetivo que, no final das contas, temos.
@@ -49,7 +56,7 @@ Nosso objetivo dentro das empresas, ao gerenciar esse conhecimento, é precisame
 Nesse momento é que entramos no fluxo, desembaraçando essas informações para que, no final da ponta, onde está a pessoa usuária final – seja ela técnica ou não, pois o público final pode incluir desenvolvedores, por exemplo –, essa pessoa visualize essa linha enrolada sem nenhum nó, sem nenhum embaraço.
 
 <div align = center>
-    <img src = "../../src/img/desembarasso.png"/>
+    <img src = "../src/img/desembarasso.png"/>
 </div>  
 
 Diríamos que esse é o nosso principal objetivo, estamos dentro das empresas para pegar essas informações que são muitas vezes criadas, mas elas não são organizadas de uma forma que fica acessível não só para nós que estamos criando esse produto, mas principalmente para você que é pessoa usuária final e que precisa consumir um produto ou serviço.
