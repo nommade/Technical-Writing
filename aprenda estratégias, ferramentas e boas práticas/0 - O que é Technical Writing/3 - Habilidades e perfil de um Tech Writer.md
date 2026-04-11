@@ -41,6 +41,8 @@ Por último, é ter esse viés investigativo, ter essa característica da pesqui
 
 Portanto, é fundamental que você tenha essa predisposição a gostar de pesquisar, a gostar de ir atrás das informações, pois assim você vai conseguir obter todo o material, se não todo, praticamente todo o material que precisa para desempenhar o seu trabalho.
 
+<br/>
+
 ### Conhecimentos relacionados à área
 - Boas práticas de escrita.
 - Conhecimento de tipos de documentação e de ferramentas de doc (Github, Swagger, Confluence, entre outros).

@@ -1,3 +1,9 @@
+<div align = center>
+    <video controls width="800">
+        <source src="../src/video/M_1_Aula-0.mp4.mp4" type="video/mp4">
+    </video>
+</div>
+
 # O que é Documentação Técnica?
 De uma forma bem resumida, uma documentação nada mais é que um documento que pode, ou não, reunir uma série de outros documentos que trazem informações importantes sobre como a pessoa vai usar um produto ou serviço. 
 
@@ -11,6 +17,8 @@ Essa ajuda geralmente diz respeito a configurar, a instalar, a personalizar algu
 
 Existem outros verbos que poderíamos listar, mas acreditamos que esses são os mais comuns que você pode encontrar. Entretanto, não se limite a eles; esse é apenas um exercício para você começar a assimilar e entender exatamente quais são os tipos de assuntos que uma documentação técnica costumam abordar, ainda mais no contexto de desenvolvimento de software.
 
+<br/>
+
 ## Fontes de verdade
 Um ponto essencial é que o exercício de documentar, de pegar uma informação muito técnica, traduzi-la e torná-la acessível para um público, além da importância dessa experiência que fornecemos para a pessoa usuária, também é sobre algo da nossa área chamado Single Source of Truth (Fonte Única da Verdade).
 
@@ -19,6 +27,8 @@ Muitas vezes, quando escrevemos sobre um produto ou serviço, a pessoa usuária 
 Quando documentamos, criamos uma fonte de verdade para essa pessoa usuária, uma fonte fiel, uma fonte confiável. Essa pessoa saberá que, ao entrar nessa documentação, irá encontrar as principais informações necessárias.
 
 Portanto, esse exercício de documentar também contribui para construir fontes de verdade. Seja para um público externo ou mesmo uma documentação para o time com o qual trabalhamos, estamos construindo uma fonte de verdade, porém, dessa vez, para as pessoas internas que estão dentro do projeto, ou então outras áreas que trabalham com o time em que você atua.
+
+<br/>
 
 ## Tipos de documentação
 Uma vez que entendemos o que é uma documentação, que ela existe para reunir informações importantes para o uso e que contribuem para a fonte da verdade, a partir desse conceito maior da documentação, como começamos a pensar nos seus determinados tipos?

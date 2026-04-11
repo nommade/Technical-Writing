@@ -24,6 +24,8 @@ Por exemplo, quando abrimos um aplicativo e efetuamos um login, todas as informa
 
 Agora, você pode estar se perguntando: "Mas eles são muito parecidos. Como começo a fazer essa diferenciação? Como consigo identificar onde começa um e onde começa o outro?" É exatamente sobre isso que entenderemos agora.
 
+<br/>
+
 ### Diferenças
 
 #### Technical Writing
